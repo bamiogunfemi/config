@@ -110,7 +110,7 @@ alias fget="flutter pub get"
 alias ga="git add ."
 alias gc="git commit -m"
 alias gp="git push"
-
+alias nrd="npm run dev"
 
 
 export PATH="/usr/local/sbin:$PATH"
